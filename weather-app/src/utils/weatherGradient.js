@@ -1,0 +1,15 @@
+export const gradientMap = {
+  Clear: "linear-gradient(to right, #56ccf2, #2f80ed)",
+  Clouds: "linear-gradient(to right, #bdc3c7, #2c3e50)",
+  Rain: "linear-gradient(to right, #4b6cb7, #182848)",
+  Thunderstorm: "linear-gradient(to right, #373b44, #4286f4)",
+  Drizzle: "linear-gradient(to right, #74ebd5, #ACB6E5)",
+  Snow: "linear-gradient(to right, #e6dada, #274046)",
+  Mist: "linear-gradient(to right, #757f9a, #d7dde8)",
+  Haze: "linear-gradient(to right, #3e5151, #decba4)",
+  Smoke: "linear-gradient(to right, #434343, #000000)",
+  Fog: "linear-gradient(to right, #d7d2cc, #304352)",
+  Dust: "linear-gradient(to right, #ba8b02, #181818)",
+  Sand: "linear-gradient(to right, #eacda3, #d6ae7b)",
+  Default: "linear-gradient(to right, #83a4d4, #b6fbff)",
+};
