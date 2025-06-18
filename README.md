@@ -8,7 +8,7 @@ A responsive and modern weather application built with **React + Vite**, powered
 
 ## 🚀 Live Demo
 
-👉 [View WeatherNow Live](https://weather-app-ruddy-one-63.vercel.app/)
+👉 [View WeatherNow Live](https://weather-now-two-teal.vercel.app/)
 
 ---
 
